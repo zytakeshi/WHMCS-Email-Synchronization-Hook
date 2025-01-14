@@ -23,7 +23,7 @@ This WHMCS hook ensures that when a client's email is updated in `tblclients`, t
 ## Installation
 
 1. **Download the Hook:**
-   Download the `sync_client_email_to_user.php` file from this repository.
+   Download the `emailsync.php` file from this repository.
 
 2. **Place the File:**
    Upload the file to your WHMCS installation directory:
